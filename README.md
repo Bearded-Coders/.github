@@ -5,7 +5,7 @@
 
 - We strive to learn new languages and frameworks everyday, it is our mission to ensure we write and create the best possible products. If you have any interest in joining us in creating awesome things, email us here beardedcoders365@gmail.com
 
-### Some of the laguages we use
+### Some of the languages we use
 - Java
 - Thymeleaf
 - React
